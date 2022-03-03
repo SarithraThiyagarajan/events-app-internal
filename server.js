@@ -28,7 +28,8 @@ const mockEvents = {
     events: [
         { title: 'an event', id: 1, description: 'something really cool' },
         { title: 'another event', id: 2, description: 'something even cooler' },
-        { title: 'check', id: 3, description: 'edited the code' }
+        { title: 'check', id: 3, description: 'edited the code' },
+        { title: 'code changes for commit', id: 4, description: 'commit changes' }
     ]
 };
 
